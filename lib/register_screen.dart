@@ -24,7 +24,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text('Login Fusion Auth'),
+          title: Text('Register Account'),
         ),
         body: Padding(
           padding: const EdgeInsets.all(_horizontalPadding),

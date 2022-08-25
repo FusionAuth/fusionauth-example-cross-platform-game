@@ -22,7 +22,7 @@ class _LoginScreenState extends State<LoginScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text('Login Fusion Auth'),
+          title: Text('Login'),
         ),
         body: Padding(
           padding: const EdgeInsets.all(_horizontalPadding),
