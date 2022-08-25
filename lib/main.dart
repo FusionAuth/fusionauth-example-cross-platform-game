@@ -7,7 +7,7 @@ Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   bool userStatus = await checkUserIsLoggedIn();
   runApp(MyApp(
-    status: false,
+    status: userStatus,
   ));
 }
 
