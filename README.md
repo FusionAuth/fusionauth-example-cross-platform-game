@@ -1,6 +1,8 @@
-# fusionauth_game
+# Cross Platform login example
 
-A new Flutter project which illustrates login across different platforms with FusionAuth.
+A Flutter project which illustrates login across different platforms with FusionAuth.
+
+Learn more at https://fusionauth.io/learn/expert-advice/gaming-entertainment/cross-platform-game-accounts
 
 ## Getting Started
 
